@@ -1,1 +1,1 @@
-mini-calculator made using assembly language
+Developed mini-calculator using assembly language
